@@ -1,4 +1,4 @@
 # Island
-This is a Responsive Header  
-Technologies used.. 
+This is a Responsive Website Header For a Company Working in Tourism.
+Technologies used..
 Html , CSS
